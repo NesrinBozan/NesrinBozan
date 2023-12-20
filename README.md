@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nesrinnbozan" target="blank"><img src="https://img.shields.io/twitter/follow/nesrinnbozan?logo=twitter&style=for-the-badge" alt="nesrinnbozan" /></a> </p>
 
-- 🌱 I’m currently learning **Swift, Flutter and other software technologies**
+- 🌱 I’m currently learning **Swift,SwiftUI and other software technologies**
 
 - 📫 How to reach me **nesrinnbozan6@gmail.com**
 
